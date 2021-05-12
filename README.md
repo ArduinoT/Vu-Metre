@@ -10,3 +10,6 @@ Merhaba arkadaşlar bugün sizlere bir Vu Metre yaptık. [ Buraya tıklayarak ](
 - Ses Sensörü
 - 9 tane led
 - Jumper Kablolar
+
+## Şema:
+![Şema](https://raw.githubusercontent.com/ArduinoT/Vu-Metre/main/%C5%9Fema.jpg)
